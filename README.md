@@ -5,10 +5,7 @@ This jupyter lab notebook file contains a demo of optical flow using RAFT. The m
 machine learning.
 
 The contents of this repository are as follows:
-- the first 200 images of the KITTI dataset for the right camera
-- the generated predicted flows for the images using RAFT
 - jupyter lab notebook with code and comments for the process
-- generated mp4s of both image sequences
 
 This project was built in a conda virtual environment. All of the libraries and versions in this venv are listed at the end of the jupyter notebook.
 
